@@ -1,4 +1,4 @@
-# LSTM-RF-Stocks-Predictor-Dashboard
+# LSTM-RF-Stocks-Forecasting-Dashboard
 
 ## Overview
 
