@@ -1,0 +1,11 @@
+streamlit
+pandas
+sklearn
+tensorflow
+numpy
+yfinance
+dotenv
+stocknews
+datetime
+prophet
+plotly
