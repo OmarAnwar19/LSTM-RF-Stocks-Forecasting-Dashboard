@@ -1,11 +1,12 @@
 streamlit
 pandas
-sklearn
+scikit-learn
 tensorflow
 numpy
 yfinance
-dotenv
+python-dotenv
 stocknews
 datetime
 prophet
 plotly
+alpha-vantage
